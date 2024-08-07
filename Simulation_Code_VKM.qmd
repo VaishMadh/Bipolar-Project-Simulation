@@ -1,4 +1,7 @@
 ## SIMULATION STUDY
+##Authors: Vaishnavi K Madhavan and Michel Nivard
+Project: Bipolar Disorder and Educational Attainment: Deciphering a Complex Relationship using Genetic and Sibling Differences
+
 
 Simulating power for 1. regressing bipolar disorder outcome on EA PRS and 2. regressing EA outcome on BIP PRS
 
